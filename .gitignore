@@ -1,5 +1,6 @@
-tmp/
-*old
-*backup
-Thumbs.db
-.DS_Store
+Site For Import/tmp/
+*.old
+*.backup
+Site For Import/.Thumbs.db
+ tmp/.DS_Store
+
